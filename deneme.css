@@ -9,7 +9,8 @@ Original highlight.js style (c) Ivan Sagalaev <maniac@softwaremaniacs.org>
   overflow-x: auto;
   padding: 0.5em;
   background: #fff;
-  border:1px solid #E3EDF3;
+  border:1px solid #ccc;
+  border-radius:3px;
 }
 
 
